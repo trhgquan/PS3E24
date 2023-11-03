@@ -2,8 +2,8 @@
 
 [Kaggle PS3E24 - Binary Prediction of Smoker Status using Bio-Signals](https://www.kaggle.com/competitions/playground-series-s3e24)
 
-- Team name: **Jobless after graduated** (Ranked ../.. - Top .. %)
-- Public test: 0.87221
+- Team name: **I'm unemployed, please hire me** (Ranked ../.. - Top .. %)
+- Public test: 0.87250
 - Private test: TBD
 
 ## Evaluation
